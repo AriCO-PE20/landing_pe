@@ -73,7 +73,7 @@ export function AboutSection() {
           animate={isInView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="mb-4">Sobre 1xBet y nuestra red de agentes en Perú</h2>
+          <h2 className="mb-4">Sobre 1xBet y nuestra red de agentes en Latino America</h2>
           <motion.div
             className="w-20 h-1 bg-blue-600 mx-auto mb-8"
             initial={{ width: 0 }}
@@ -120,7 +120,7 @@ export function AboutSection() {
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ duration: 0.6, delay: 0.4 }}
             >
-              En <strong>Perú</strong>, estamos construyendo una red de agentes comprometidos con el éxito
+              En <strong>Latino America</strong>, estamos construyendo una red de agentes comprometidos con el éxito
               mutuo. Como agente 1xBet, tendrás acceso a herramientas de última generación, capacitación
               continua y el respaldo de una marca reconocida mundialmente.
             </motion.p>
