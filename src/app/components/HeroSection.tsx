@@ -102,7 +102,11 @@ export function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.6 }}
             >
-              <motion.button
+              {/* Botón "Reserva tu reunión" */}
+              <motion.a
+                href="https://calendly.com/arianliendro2005/30min"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg flex items-center justify-center gap-2 transition-all shadow-lg shadow-blue-900/50 relative overflow-hidden group"
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.95 }}
@@ -119,16 +123,20 @@ export function HeroSection() {
                 />
                 <Calendar className="w-5 h-5 relative z-10" />
                 <span className="relative z-10">Reserva tu reunión</span>
-              </motion.button>
+              </motion.a>
 
-              <motion.button
+              {/* Botón "Chatea con nosotros" */}
+              <motion.a
+                href="https://t.me/UsAri20"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white px-8 py-4 rounded-lg flex items-center justify-center gap-2 transition-all border border-white/20"
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.95 }}
               >
                 <MessageCircle className="w-5 h-5" />
                 Chatea con nosotros
-              </motion.button>
+              </motion.a>
             </motion.div>
 
             <motion.div
