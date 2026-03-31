@@ -18,7 +18,7 @@ export function TestimonialsSection() {
     },
     {
       name: 'María Rodríguez',
-      location: 'Arequipa, Perú',
+      location: 'Bogota, Colombia',
       role: 'Agente 1xBet desde 2022',
       photo: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&crop=faces',
       text: 'La flexibilidad de horarios me permite combinar esto con mis otras actividades. El material de marketing que proporcionan es de primera calidad y las comisiones son muy competitivas. Totalmente recomendado.',
@@ -26,7 +26,7 @@ export function TestimonialsSection() {
     },
     {
       name: 'Jorge Fernández',
-      location: 'Trujillo, Perú',
+      location: 'Buenos Aires, Argentina',
       role: 'Agente 1xBet desde 2024',
       text: 'Lo mejor es la capacitación inicial y continua. Te enseñan todo desde cero. Ahora manejo mi propio negocio y cada mes veo crecimiento. La plataforma es muy intuitiva tanto para mí como para mis clientes.',
       photo: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=faces',
@@ -197,7 +197,7 @@ export function TestimonialsSection() {
           transition={{ duration: 0.6, delay: 0.8 }}
         >
           <p className="text-lg text-gray-700">
-            <strong>+500 agentes</strong> activos en Perú ya están creciendo con nosotros
+            <strong>+500 agentes</strong> activos en toda Latino America ya están creciendo con nosotros
           </p>
         </motion.div>
       </div>
