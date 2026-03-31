@@ -84,7 +84,7 @@ export function HeroSection() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              Conviértete en Agente 1xBet en Perú
+              Conviértete en Agente 1xBet en Latino America
             </motion.h1>
 
             <motion.p
