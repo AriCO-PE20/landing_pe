@@ -20,9 +20,9 @@ export function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="text-white mb-4">1xBet Perú</h3>
+            <h3 className="text-white mb-4">1xBet America Latina</h3>
             <p className="text-sm leading-relaxed">
-              Red oficial de agentes 1xBet en Perú. Únete a la plataforma líder en apuestas deportivas online.
+              Red oficial de agentes 1xBet en latino AmerICA. Únete a la plataforma líder en apuestas deportivas online.
             </p>
           </div>
 
