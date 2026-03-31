@@ -29,7 +29,7 @@ export function FAQSection() {
     },
     {
       question: '¿Hay algún costo inicial?',
-      answer: 'No hay costos de franquicia ni inversión inicial obligatoria. Te proporcionamos todo el material de marketing básico sin costo. Algunos agentes eligen invertir en publicidad adicional para acelerar su crecimiento, pero esto es completamente opcional y depende de tus objetivos.'
+      answer: 'Existe una inversión inicial mínima, que varía según el país, pero es muy baja y accesible para cualquier persona que quiera comenzar. Te proporcionamos todo el material de marketing básico sin costo, y algunos agentes eligen invertir en publicidad adicional para acelerar su crecimiento, lo cual es completamente opcional.'
     }
   ];
 
