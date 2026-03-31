@@ -78,7 +78,7 @@ export function CTASection() {
           <div className="grid md:grid-cols-3 gap-6 text-left">
             {[
               { title: 'Proceso rápido:', desc: 'Comienza en menos de 48 horas después de tu reunión inicial' },
-              { title: 'Sin riesgos:', desc: 'No hay inversión inicial obligatoria ni costos ocultos' },
+              { title: 'Sin riesgos:', desc: 'Inversion iniciales minima, para que experimentes por tu propia cuenta' },
               { title: 'Soporte inmediato:', desc: 'Equipo dedicado disponible desde el primer día' }
             ].map((item, idx) => (
               <motion.div
